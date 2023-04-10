@@ -2,14 +2,14 @@ Terminal Colors
 
 This Python class provides a set of methods for formatting text with ANSI escape codes for terminal colors. The class includes the following colors:
 
-    1. HEADER
-    1. OKBLUE
-    1. OKCYAN
-    1. OKGREEN
-    1. WARNING
-    1. FAIL
-    1. BOLD
-    1. UNDERLINE
+1. HEADER
+1. OKBLUE
+1. OKCYAN
+1. OKGREEN
+1. WARNING
+1. FAIL
+1. BOLD
+1. UNDERLINE
 
 You can use these colors to format text using the provided methods, or by calling the color method and passing in the desired ANSI escape code.
 
