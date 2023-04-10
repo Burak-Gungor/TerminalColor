@@ -1,4 +1,4 @@
-Terminal Colors
+# Terminal Colors
 
 This Python class provides a set of methods for formatting text with ANSI escape codes for terminal colors. The class includes the following colors:
 
